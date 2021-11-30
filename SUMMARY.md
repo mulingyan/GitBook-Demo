@@ -3,3 +3,4 @@
 * [第一篇测试](README.md)
 * [Page 2](page-2.md)
 * [Page 1](page-1.md)
+* [four](four.md)
