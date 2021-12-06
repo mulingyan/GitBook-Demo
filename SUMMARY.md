@@ -14,9 +14,9 @@
 ## directory
 
 * [mly1](diretory/mly1.md)
+  * [mly5](diretory/mly1/mly5.md)
 * [mly2](diretory/diretory2/mly2.md)
-* [mly5](diretory/mly1/mly5.md)
-
+* 
 ### directory3
 
 * [mly3](diretor3/diretory4/mly3.md)
