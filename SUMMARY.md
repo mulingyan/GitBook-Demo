@@ -13,10 +13,10 @@
 
 ## directory
 
-* [mly1](diretory/readme.md)
-  * [mly5](diretory/mly1/mly5.md)
-* [mly2](diretory/diretory2/mly2.md)
-* 
-### directory3
+* [mly1](directory/mly1/README.md)
+  * [mly5](directory/mly1/mly5.md)
+* [mly2](directory/mly2.md)
 
-* [mly3](diretor3/diretory4/mly3.md)
+## directory3
+
+* [mly3](directory3/mly3.md)
