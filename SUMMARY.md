@@ -1,4 +1,4 @@
 # Table of contents
 
 * [Hello](README.md)
-* [2page](2page.md)
+* [3page](2page.md)
